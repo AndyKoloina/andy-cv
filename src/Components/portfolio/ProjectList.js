@@ -6,7 +6,7 @@ const ProjectList = () => {
         {id:1 , value:"javascript"},
         {id:2 , value:"react"},
         {id:3 , value:"css"},
-        {id:4 , value:"php"}
+        {id:4 , value:"redux"}
     ]
     const [projects,setProjects] = useState(portfolioData)
     const [radios,setRadios] = useState(radiosData)

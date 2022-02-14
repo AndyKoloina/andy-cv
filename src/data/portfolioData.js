@@ -1,55 +1,55 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
+    name: 'cadbury',
     languages: ['javascript','css'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: 'https://www.cadbury.co.uk/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project1.JPG'
   },
   {
     id: 2,
-    name: 'lorem.fr',
+    name: 'OREO',
     languages: ['javascript','react'],
     languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
+    source: 'https://fr.oreo.eu/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project2.JPG'
   },
   {
     id: 3,
-    name: 'dolorset.fr',
-    languages: ['javascript','php','css'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    name: 'pampers',
+    languages: ['javascript','react','redux'],
+    languagesIcons: ['fab fa-js','fab fa-react','fab fa-redux'],
+    source: 'https://www.pampers.fr/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project3.JPG'
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
-    languages: ['javascript','php','react'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
-    source: 'http://www.github.com',
+    name: 'Klepierre',
+    languages: ['javascript','css','react'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-react'],
+    source: 'https://www.klepierre.com/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project4.JPG'
   },
   {
     id: 5,
-    name: 'repudiante.com',
-    languages: ['javascript','css'],
+    name: 'Kaufman & broad',
+    languages: ['javascript','react','css'],
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: 'https://www.kaufmanbroad.fr/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project5.JPG'
   },
   {
     id: 6,
-    name: 'test.io',
-    languages: ['javascript','react', 'css'],
+    name: 'PSS',
+    languages: ['javascript','react', 'redux'],
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
+    source: 'https://www.privatesportshop.fr/',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
     picture: './media/project6.JPG'
   },

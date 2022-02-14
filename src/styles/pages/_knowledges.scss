@@ -32,7 +32,7 @@
       margin-bottom: 0.5rem;
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: 1fr 1fr;
+      grid-template-rows: 1.5fr 1fr;
       grid-template-areas:
         "L"
         "F";
@@ -100,7 +100,7 @@
         padding-top: 0.5rem;
 
         li {
-          color: $color-1;
+          color: $white;
         }
         .progressBar {
           height: 0.4rem;
@@ -132,7 +132,7 @@
       margin: 0 0 0.5rem 0.5rem;
       display: grid;
       grid-template-columns: 2fr;
-      grid-template-rows: 10% 2fr 1fr;
+      grid-template-rows: 0.5fr O.8fr 1fr;
       grid-template-areas:
         "1"
         "2"

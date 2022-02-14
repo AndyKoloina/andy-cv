@@ -5,7 +5,7 @@ const Navigation = () => {
    <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img src="./media/billGates.jpg" alt="profile" />
+          <img src="./media/andy.png" alt="profile" />
           <h3>Andy Ranaivo</h3>
         </div>
       </div>
@@ -40,12 +40,12 @@ const Navigation = () => {
       <div className="socialNetwork">
         <ul>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/andy-ranaivo-02684112b/" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-linkedin"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/AndyKoloina" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
             </a>
           </li>

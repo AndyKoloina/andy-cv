@@ -4,9 +4,9 @@
 $font-1: "Roboto Condensed", sans-serif;
 $font-2: "Dosis", sans-serif;
 $font-3: "Josefin Sans", serif;
-$color-1: #2a1d52;
-$color-2: #6c77f4;
-$color-3: rgb(99, 164, 233);
+$color-1: #0b2b4f;
+$color-2: #10417f;
+$color-3: #06abef;
 $color-4: #4fedd2;
 $color-5: #36d0ea;
 $white: #ddd;
@@ -30,7 +30,7 @@ body {
   margin: 1rem auto;
   max-width: 1200px;
   font-family: $font-1;
-  color: $black;
+  color: $white;
 }
 button {
   cursor: pointer;

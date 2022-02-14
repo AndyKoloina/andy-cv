@@ -36,11 +36,11 @@ const Contact = () => {
         </div>
         <div className="socialNetwork">
           <ul>
-            <a href="http://www.google.com" target='_blank' rel='noopener noreferrer'>
+            <a href="https://www.linkedin.com/in/andy-ranaivo-02684112b/" target='_blank' rel='noopener noreferrer'>
               <h4> Linkedin</h4>
               <i className='fab fa-linkedin'></i>
             </a>
-            <a href="http://www.google.com" target='_blank' rel='noopener noreferrer'>
+            <a href="https://github.com/AndyKoloina" target='_blank' rel='noopener noreferrer'>
               <h4> Github </h4>
               <i className='fab fa-github'></i>
             </a>

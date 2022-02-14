@@ -29,7 +29,7 @@ const Project = ({item}) => {
                             <div className="head">
                                 <h2>{name}</h2>
                                 <div className="sourceCode">
-                                    <a href={source} rel="noopener noreferrer" className='button' target="_blank">Code source</a>
+                                    <a href={source} rel="noopener noreferrer" className='button' target="_blank">site web</a>
                                 </div>
                             </div>
                             <p className='text'>{info}</p>
